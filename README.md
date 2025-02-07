@@ -88,7 +88,7 @@ The back-end repository for this website can be found [here](https://github.com/
 ### [Stitch Art Guides](https://stitch-art-guides-pp4-5a679feed1e1.herokuapp.com/) 
 ![stitch art guides project](https://github.com/laurakond/Stitch-Art-Guides-pp4/raw/main/documentation/images/features/am-i-responsive.jpeg)
 
-Art Stitch Guides is a full-stack website that provides a number of various tutorials on how to set up and get started with your first project, whether it is a simple cross stitch sampler or a more advanced project.
+Stitch Art Guides is a full-stack website that provides a number of various tutorials on how to set up and get started with your first project, whether it is a simple cross stitch sampler or a more advanced project.
 
 Awarded grade: **Distinction**
 
@@ -168,7 +168,7 @@ This directory includes a variety of spaces such as cafes, clubs, support center
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### [Valentine Ventures](https://travelcupid-8ccb9d827f84.herokuapp.com/)  
-![inclusive spots snapshot](https://github.com/SamMartin92/hackathon-team-10/raw/main/static/images/home-page-collage-heart.png)
+![valentine ventures snapshot](https://github.com/SamMartin92/hackathon-team-10/raw/main/static/images/home-page-collage-heart.png)
 
 Valentine Ventures is designed to help users find romantic places to bring their special someone on Valentine's Day. The app allows the user to find locations worldwide. The user enters the country or city/region of choice and then finds a selection of romantic destinations in the chosen area. Alternatively, users can check the map for destinations or simply browse all destinations.
 
