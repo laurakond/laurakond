@@ -151,7 +151,7 @@ Awarded grade: **Merit**
 ## Collaborative projects:
 These projects have been created during hackathons, a 5 day coding challenge, that were facilitated by Code Institute. 
 
-### [Inclusive spots](https://prideful-programmers-01c026806d6f.herokuapp.com/) - awarded 3rd  place 
+### [Inclusive spots](https://prideful-programmers-01c026806d6f.herokuapp.com/) - 🥉awarded 3rd place 
 ![inclusive spots snapshot](https://camo.githubusercontent.com/ee2372dce11f1aeb5b4414abde1d74d1987dc80e9f0856f6b48a6497b71f0740/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646a646566626e696a2f696d6167652f75706c6f61642f76313731383935363332362f556e7469746c65645f64657369676e5f315f726c706679762e706e67)
 
 Welcome to Inclusive Spots directory! This project aims to provide a comprehensive, user-friendly platform dedicated to helping the LGBTQIA+ community find and share safe spaces. Whether you're looking for a welcoming cafe, a supportive community center, or an inclusive club, our directory is designed to help you find places where you can feel safe, accepted, and celebrated. The directory is built with the mission of fostering a supportive and inclusive environment for the LGBTQIA+ community. In many places around the world, finding safe and accepting spaces can be challenging. Our platform seeks to bridge this gap by offering a reliable resource where community members can discover, review, and share information about spaces that are welcoming and supportive.
