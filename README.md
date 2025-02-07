@@ -7,9 +7,9 @@
 🔭 I’m currently working on improving my React skills and learn more about databases.
 
 
-🤔 I’m looking for help with landing my first job within tech industry. Let's chat! 
+🤔 I’m looking for help with landing my first job within the tech industry. Let's chat! 
 
-When I'm not coding, I channel my creativity by cross-stitching artworks. My current project is a painting by an impressionist artist Edgar Degas. I also enjoy a good walk whether it's to unwind or secretly think of solutions for tackling those pesky coding errors!
+When I'm not coding, I channel my creativity by cross-stitching artworks. My current project is a painting by an impressionist artist, Edgar Degas. I also enjoy a good walk, whether it's to unwind or secretly think of solutions for tackling those pesky coding errors!
 
 ### Contact me on: 
 
@@ -67,7 +67,7 @@ These projects were developed whilst attending Code Institute web development co
 ### [Artly](https://artly-a211b809ae81.herokuapp.com/) 
 ![Artly project image](https://github.com/laurakond/artly/raw/main/documentation/images/features/am-i-responsive.jpg)
 
-Artly is a full-stack product comparison site which promotes sharing the most beloved artworks with like-minded people. Whether you are looking to sell or buy a unique piece of art, Artly promotes is led by the artist community who wish to share and sell their artwork.
+Artly is a full-stack product comparison site which promotes sharing the most beloved artworks with like-minded people. Whether you are looking to sell or buy a unique piece of art, Artly is led by the artist community who wish to share and sell their artwork.
 
 The users can put an artwork up for sale, bid on an artwork of their liking, or simply save an artwork to review later at a convenient time. They can also review the profiles and customise their own, and follow other users for easy access to most up-to-date artwork listings.
 
@@ -105,7 +105,7 @@ Awarded grade: **Distinction**
 ### [Once Upon a time](https://once-upon-a-time-f214671524cd.herokuapp.com/) 
 ![once upon a time snapshot](https://github.com/laurakond/Once-Upon-a-Time/raw/main/assets/documentation/images/feature-screenshots/once-upon-a-time-logo.jpeg)
 
-"Once Upon a Time..." is a text-based game that recreates the pilot episode of the show, allowing the user to play out the sequence of events by choosing from multiple scenarios.
+"Once Upon a Time..." is a text/terminal-based game that recreates the pilot episode of the show, allowing the user to play out the sequence of events by choosing from multiple scenarios.
 
 The game incorporates the user's data to make it more interactive and make the user part of the story-telling, as if they were the hero of the show!
 
