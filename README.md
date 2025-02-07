@@ -2,9 +2,9 @@
 <h3 align="center">I am Junior Full Stack Software Developer</h3>
 
 ## About me
-I am currently transitioning into the world of tech, actively seeking my first role within the industry.
+🛅 I am currently transitioning into the world of tech, actively seeking my first role within the industry.
 
-I’m currently working on improving my React skills and learn more about databases.
+🔭 I’m currently working on improving my React skills and learn more about databases.
 
 
 🤔 I’m looking for help with landing my first job within tech industry. Let's chat! 
@@ -55,7 +55,7 @@ When I'm not coding, I channel my creativity by cross-stitching artworks. My cur
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laurakond" alt="laurakond" /></a> </p>
 
-## GitHub Stats
+## 🕓 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laurakond&show_icons=true&locale=en&layout=compact&theme=transparent" alt="laurakond" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laurakond&show_icons=true&locale=en&theme=transparent" alt="laurakond" /></p>
