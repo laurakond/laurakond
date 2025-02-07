@@ -1,5 +1,5 @@
-# Hi, I'm Laura 👋
-## Junior Full Stack Software Developer
+<h1 align="center">Hi 👋, I'm Laura</h1>
+<h3 align="center">I am Junior Full Stack Software Developer</h3>
 
 ## About me
 I am currently transitioning into the world of tech, actively seeking my first role within the industry.
@@ -49,6 +49,17 @@ When I'm not coding, I channel my creativity by cross-stitching artworks. My cur
 ### Additional:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Balsamiq](https://img.shields.io/badge/Balsamiq-100000.svg?style=for-the-badge&logo=Balsamiq&logoColor=white)
+
+<hr>
+
+## 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laurakond" alt="laurakond" /></a> </p>
+
+## GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laurakond&show_icons=true&locale=en&layout=compact&theme=transparent" alt="laurakond" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laurakond&show_icons=true&locale=en&theme=transparent" alt="laurakond" /></p>
+
 
 ## Portfolio projects:
 These projects were developed whilst attending Code Institute web development course. 
