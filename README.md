@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Laura</h1>
+<h1 align="center">Hi 👋, I'm Laura</h1>
 <h3 align="center">I am Junior Full Stack Software Developer</h3>
 
 ## About me
