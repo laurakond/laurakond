@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
-<h3 align="center">I am Junior Full Stack Software Developer</h3>
+<h3 align="center">I am Junior Full Stack Web Developer</h3>
 
 ## About me
 
-🛅 I am currently transitioning into the world of tech, actively seeking my first role within the industry.
+🛅 I am working as a Junior Full-Stack Web Developer for a Market Data financial firm.
 
-🔭 I’m currently working on improving my React skills and learn more about databases.
+🔭 I’m actively working on improving various skills through practice and experimenting at work, including learning PHP and Laravel framework, Vue.js fundamentals, Tailwind CSS, Quasar, Cypress and unit testing to name a few!
 
-🤔 I’m looking for help with landing my first job within the tech industry. Let's chat!
+🤔 I’m looking to expand my knowledge and build a strong skill set so I can become an expert in the field.
 
-When I'm not coding, I channel my creativity by cross-stitching artworks. My current project is a painting by an impressionist artist, Edgar Degas. I also enjoy a good walk, whether it's to unwind or secretly think of solutions for tackling those pesky coding errors!
+🤼 I am looking to work and collaborate on creative and exciting projects with anyone who'd like to join in. Let's chat!
+
+🎨 When I'm not coding, I channel my creativity by recreating artworks with a needle and thread. My current project is a painting by an impressionist artist, Edgar Degas. I also enjoy a good walk, a game of tennis and a turn around the dance floor busting my Lindy hop moves. All of these activities allow me to unwind or secretly think of solutions for tackling those pesky coding errors!
 
 ### Contact me on:
 
@@ -17,27 +19,32 @@ When I'm not coding, I channel my creativity by cross-stitching artworks. My cur
 
 ### Languages:
 
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Frameworks & libraries:
 
+![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
 ![DjangoRest Badge](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Dango Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Flask Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Jest Badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Version Control:
 
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ### IDEs:
 
+![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ### Hosting:
@@ -51,10 +58,6 @@ When I'm not coding, I channel my creativity by cross-stitching artworks. My cur
 ![Balsamiq](https://img.shields.io/badge/Balsamiq-100000.svg?style=for-the-badge&logo=Balsamiq&logoColor=white)
 
 <hr>
-
-## 🏆 GitHub Trophies
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laurakond" alt="laurakond" /></a> </p>
 
 ## 🕓 GitHub Stats
 
